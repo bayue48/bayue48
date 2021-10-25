@@ -10,9 +10,9 @@
 - 🌱 I’m currently learning [Golang](https://golang.org/)
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/bayuerich/)
 
-<a href="#">
+<!-- <a href="#">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bayue48&layout=compact" />
-</a>
+</a> -->
 <!-- <a href="#">
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=yu_&layout=compact" />
 </a> -->
