@@ -15,4 +15,4 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=yu_&layout=compact" />
 </a> -->
 
-<figure><embed src="https://wakatime.com/share/@yu_/3455aa17-33b8-4360-955f-fd43c6f2255a.svg"></embed></figure>
+<embed src="https://wakatime.com/share/@yu_/3455aa17-33b8-4360-955f-fd43c6f2255a.svg"></embed>
