@@ -1,7 +1,6 @@
 ### Hi there
 
 - 👋 I’m Bayu Erich 
-- 👀 I’m interested in Learning new things
 - 🌱 I’m currently learning: 
   + [Golang](https://golang.org/)
   + [TypeScript](https://www.typescriptlang.org/)
