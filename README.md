@@ -14,5 +14,4 @@
 </a>
 
 #
-.. image:: https://wakatime.com/share/@yu_/55c0da7c-33cb-4ca5-8aa0-86827c57b7d3.png
-    :target: https://wakatime.com/
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@yu_/55c0da7c-33cb-4ca5-8aa0-86827c57b7d3.png" /></a>
