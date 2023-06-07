@@ -8,9 +8,7 @@
 - [![wakatime](https://wakatime.com/badge/user/b642d58c-7a7f-424c-bf74-8651af920de6.svg)](https://wakatime.com/@b642d58c-7a7f-424c-bf74-8651af920de6)
 
 # 
-<a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=bayue48&show_icons=true" />
-</a>
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api?username=bayue48)](https://github-readme-stats.vercel.app/api?username=bayue48)
 
 #
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@yu_/55c0da7c-33cb-4ca5-8aa0-86827c57b7d3.png" /></a>
