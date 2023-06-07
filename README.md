@@ -8,6 +8,6 @@
 - [![wakatime](https://wakatime.com/badge/user/b642d58c-7a7f-424c-bf74-8651af920de6.svg)](https://wakatime.com/@b642d58c-7a7f-424c-bf74-8651af920de6)
 
 # 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bayue48b&langs_count=8&show_icons=true&theme=radical&hide=html,php,scss)](https://www.github.com/bayue48/bayue48) -->
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bayue48&langs_count=8&show_icons=true&theme=radical&hide=html,php,scss)](https://www.github.com/bayue48/bayue48) -->
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=bayue48)](https://github.com/anuraghazra/github-readme-stats)
 
