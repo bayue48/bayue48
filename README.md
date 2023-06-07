@@ -9,7 +9,5 @@
 
 # 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrdrews-hub&langs_count=8&show_icons=true&theme=radical&hide=html,php,scss)](https://www.github.com/mrdrews-hub/mrdrews-hub) -->
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mrdrews)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=bayue48)](https://github.com/anuraghazra/github-readme-stats)
 
-#
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@yu_/55c0da7c-33cb-4ca5-8aa0-86827c57b7d3.png" /></a>
