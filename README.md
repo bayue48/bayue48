@@ -1,5 +1,5 @@
 ### Hi there
-[![@yue's Holopin board](https://holopin.io/api/user/board?user=yue)](https://holopin.io/@yue)
+[![An image of @yue's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/yue)](https://holopin.io/@yue)
 - 👋 I’m Bayu Erich 
 - 🌱 I’m currently learning: 
   + [Golang](https://golang.org/)
